@@ -3,7 +3,7 @@
 (This template is inspired by [the original](https://dschool-old.stanford.edu/sandbox/groups/designresources/wiki/4dbb2/attachments/e1005/TheWalletProjectB%26W2012.pdf?sessionID=8af88fee76ecd1fb7879c915073461486c425622))
 
 ### Steps:
-1. [First Interview](#1.-first-interview)
+1. [First Interview](#1-first-interview)
 2. [Follow-Up Interview](#follow-up-interview)
 3. [Capture Findings](#consolidate-findings)
 4. [Define the Problem](#define-the-problem)
